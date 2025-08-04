@@ -1,6 +1,6 @@
 # leetcode-solutions
 
-This repo contains my solutions to various LeetCode problems categorized by topic and written in different languages (Java, Python, C++).  
+This repo contains my solutions to various LeetCode problems categorized by topic and written in different language (Java).  
 I use this repository to track my coding progress and prepare for technical interviews.
 
 ## Categories
